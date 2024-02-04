@@ -1,1 +1,1 @@
-# dezoomcamp_cohort2024
+# Dezoomcamp Cohort 2024
