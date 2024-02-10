@@ -1,0 +1,1 @@
+2024-02-06T14:01:41 {"block_run_id": 1, "block_uuid": "load_green_taxi_data", "pipeline_run_id": 1, "pipeline_schedule_id": 1, "pipeline_uuid": "green_taxi_etl", "hostname": "96649ac3d4ab", "block_type": "data_loader", "level": "INFO", "message": "Start executing block with BlockExecutor.", "timestamp": 1707228101.739294, "uuid": "22129a0458b74694b38c6aa84e573c35"}
